@@ -1,0 +1,6 @@
+com\changgou\SearchApplication.class
+com\changgou\search\dao\SkuEsMapper.class
+com\changgou\search\service\impl\SearchResultMapperImpl.class
+com\changgou\search\service\SearchService.class
+com\changgou\search\service\impl\SearchServiceImpl.class
+com\changgou\search\controller\MySearchController.class

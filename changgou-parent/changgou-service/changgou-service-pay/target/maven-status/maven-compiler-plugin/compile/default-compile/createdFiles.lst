@@ -1,0 +1,4 @@
+com\changgou\service\pay\service\WeixinPayService.class
+com\changgou\service\pay\service\impl\WeixinPayServiceImpl.class
+com\changgou\service\pay\controller\WeixinPayController.class
+com\changgou\WeixinPayApplication.class

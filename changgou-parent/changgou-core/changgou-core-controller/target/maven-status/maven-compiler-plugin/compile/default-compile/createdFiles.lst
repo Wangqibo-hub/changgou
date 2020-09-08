@@ -1,0 +1,7 @@
+com\changgou\core\controller\IUpdateController.class
+com\changgou\core\controller\impl\ICoreControllerImpl.class
+com\changgou\core\controller\ICoreController.class
+com\changgou\core\controller\IPagingController.class
+com\changgou\core\controller\ISelectController.class
+com\changgou\core\controller\IInsertController.class
+com\changgou\core\controller\IDeleteController.class
