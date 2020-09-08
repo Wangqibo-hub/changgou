@@ -34,8 +34,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="changgou-common-db" />
-    <orderEntry type="module" module-name="changgou-common-db" />
     <orderEntry type="library" name="Maven: com.xpand:starter-canal:0.0.1-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:2.1.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.1.4.RELEASE" level="project" />
